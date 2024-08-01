@@ -1,0 +1,32 @@
+.datatable {
+    max-height: 200px; /* Set a max height for the table body */
+    overflow-y: auto; /* Enable vertical scrolling */
+    
+  }
+  
+  .datatable table {
+    width: 100%; /* Full width table */
+    border-collapse: collapse;
+    border-radius: 5%;
+  }
+  
+  .datatable th, .datatable td {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #ddd;
+  }
+  
+  .datatable th {
+    background-color: #808080;
+    color: aliceblue;
+    font-style: italic;
+  }
+  
+  .datatable tr.even {
+    background-color: #fdfcfc; /* Alternate row color */
+  }
+  
+  .datatable tr.odd {
+    background-color: #eefcf3; /* Alternate row color */
+  }
+  

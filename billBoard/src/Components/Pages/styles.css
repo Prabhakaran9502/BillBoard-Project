@@ -1,0 +1,10 @@
+.customDatePicker {
+    border-radius: 10px;
+    border: 1px solid #1976d2;
+    margin-left: 1vh;
+    width: 25vh;
+    height: 4.5vh;
+    color: #9c27b0;
+    font-size: 15px;
+    padding-left: 1vh;
+  }
